@@ -1,0 +1,23 @@
+.sayless {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  max-width: 350px;
+  max-height: 145px;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.footer img {
+  max-width: 24px;
+  margin: 0 5px;
+}
+
+@media (max-width: 481px) {
+
+  .sayless {
+    max-width: 250px;
+    max-height: 104px;
+  }
+}
