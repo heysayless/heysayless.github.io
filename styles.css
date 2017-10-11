@@ -1,8 +1,8 @@
 .sayless {
   margin-top: 75px;
   margin-bottom: 50px;
-  max-width: 350px;
-  max-height: 145px;
+  max-width: 250px;
+  max-height: 104px;
 }
 
 .footer {
@@ -14,15 +14,16 @@
   margin: 0 5px;
 }
 
-@media (max-width: 481px) {
-  .sayless {
-    max-width: 250px;
-    max-height: 104px;
-  }
-}
-
 @media (min-width: 481px) {
+
+  .sayless {
+    max-width: 350px;
+    max-height: 145px;
+  }
+
   .soundcloud-player {
     width: 400px;
+    height: 400px;
   }
+
 }
