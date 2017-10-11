@@ -5,11 +5,6 @@
   max-height: 145px;
 }
 
-.soundcloud-player {
-  max-width: 100%
-  max-height: 100%
-}
-
 .footer {
   margin-top: 50px;
 }
@@ -23,5 +18,9 @@
   .sayless {
     max-width: 250px;
     max-height: 104px;
+  }
+
+  .soundcloud-player {
+    width: 300px;
   }
 }
