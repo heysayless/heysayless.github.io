@@ -17,6 +17,7 @@
 @media (min-width: 481px) {
 
   .sayless {
+    margin-top: 75px;
     max-width: 350px;
     max-height: 145px;
   }
